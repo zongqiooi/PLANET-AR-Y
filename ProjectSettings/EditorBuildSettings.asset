@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StartMenu.unity
+    guid: 8c15045c9788787409ace6bb6f44d61b
+  - enabled: 1
+    path: Assets/SolarSystem.unity
+    guid: e0be3c9f1535fa046b2e64d86c3f62b8
+  - enabled: 1
+    path: Assets/Rocket.unity
+    guid: 246f1107dcfbd074cb5dc72c0ed9deb5
+  - enabled: 1
+    path: Assets/MarsInfo.unity
+    guid: f1ab639ba07b5f14b9eac60dd43355ab
+  - enabled: 1
+    path: Assets/JupiterInfo.unity
+    guid: e39815409dd56254c962f5ef75540e1d
+  - enabled: 1
+    path: Assets/EarthInfo.unity
+    guid: 0821e8a11fd3d5a4089eceba463929b3
+  - enabled: 1
+    path: Assets/MercuryInfo.unity
+    guid: 1429ba4b0a1e9ce4fbc14c48a965e322
+  - enabled: 1
+    path: Assets/SaturnInfo.unity
+    guid: fde18343a854c5b44913242a73a79f10
+  - enabled: 1
+    path: Assets/VenusInfo.unity
+    guid: f8a2ccca7ed62ca41bbc5cd751eb2c62
+  - enabled: 1
+    path: Assets/SunInfo.unity
+    guid: 209e31c8b93073f419eb34a875bb9fb4
+  - enabled: 1
+    path: Assets/MoonInfo.unity
+    guid: 556baa7d10e3cee449c93e85a3767085
+  - enabled: 1
+    path: Assets/NeptuneInfo.unity
+    guid: f3adc907a8ab7c54d836aa54f8848570
+  - enabled: 1
+    path: Assets/UranusInfo.unity
+    guid: 32190a07fac678346899a13ab9c24186
+  - enabled: 1
+    path: Assets/AresInfo.unity
+    guid: c222a1f678b5b51488e8e73dad0b5c8b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/ShuttleInfo.unity
+    guid: c52991bb2d88de74d811f72064f4bba8
+  - enabled: 1
+    path: Assets/Rover.unity
+    guid: d8619573bd3cf494ebecac5c68a6e859
+  - enabled: 1
+    path: Assets/RoverInfo.unity
+    guid: e8a8dcff59f592e44bb469136969b4e4
+  - enabled: 1
+    path: Assets/GeminiInfo.unity
+    guid: 1d596de5578ed6044bdb96cbce37ffda
+  - enabled: 1
+    path: Assets/CloudsatInfo.unity
+    guid: 4a8d1d5cf237e3844b5af3f4a91f96c9
+  - enabled: 1
+    path: Assets/JasonInfo.unity
+    guid: 6a22352b4229dde408a1532b66c52855
+  - enabled: 1
+    path: Assets/MarkInfo.unity
+    guid: ac7dc1d2cf86ee04cb071666285966f7
+  - enabled: 1
+    path: Assets/Satellite.unity
+    guid: 8fe40fd9f97944a4ea756696fc6f347d
+  - enabled: 1
+    path: Assets/Suit.unity
+    guid: 4a61fa4d2f49ba5488f94f60ce9f2021
+  m_configObjects: {}
