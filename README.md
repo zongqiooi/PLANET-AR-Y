@@ -6,9 +6,11 @@ PLANET[AR]Y is a mobile application that is used to deliver knowledge related to
 
 # How to Run the Project
 1) Download the "Planet[AR]y.apk" file on your mobile phone to run the apps. 
-2) Scan the image below to trigger the AR 3D models. 
+2) Scan the image below to trigger the 3D models in AR. 
+
 ![github planetary](https://user-images.githubusercontent.com/95561298/153725560-7fd251d6-ccaa-4197-a715-58400a11145b.png)
 
+# Notes
 This app is not responsive on all mobile phones, it works perfectly only on Huawei Nova 3i so far 😔
 
 # Some Screenshots from the Apps 
