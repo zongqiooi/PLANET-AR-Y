@@ -8,7 +8,7 @@ PLANET[AR]Y is a mobile application that is used to deliver knowledge related to
 1) Download the "Planet[AR]y.apk" file on your mobile phone to run the apps. 
 
 # Notes
-This app is not responsive on all mobile phones, it works perfectly only on Huawei Nova 3i so far. 😔😔😔
+This app is not responsive on all mobile phones, it works perfectly only on Huawei Nova 3i so far. 😔
 
 # Some Screenshots from the Apps 
 ![github planetary](https://user-images.githubusercontent.com/95561298/146924525-8b143316-19e7-42c6-b4fa-5b59f53a101a.PNG)
